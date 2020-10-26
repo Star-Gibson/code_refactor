@@ -27,5 +27,3 @@ The goals of this project are as follows:
 
 ## License
 - MIT License
-
-This assignment involves a very important aspect of web development: **accessibility**. 
