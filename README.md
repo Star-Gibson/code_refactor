@@ -19,8 +19,11 @@ The goals of this project are as follows:
 - Right click index.html and select "Open in Default Browser"
 
 ## Usuage 
+- Access WebPage: https://star-gibson.github.io/code_refactor/
 - Provide feedback for cleaner code.
 - Enjoy my first project complete project on Github. 
+- Screenshot: 
+  ![image](https://user-images.githubusercontent.com/72622031/97241155-9d013e80-17c6-11eb-82ea-9f6da76540ac.png)
 
 ## Credits
 - Star Gibson (https://github.com/Star-Gibson)
